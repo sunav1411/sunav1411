@@ -1,87 +1,48 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Sunav%20Sunil%20Mattoo&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=C%2B%2B%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Open%20Source&descAlignY=58&descSize=18&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sunav%20Sunil%20Mattoo&fontSize=42&fontColor=fff&fontAlignY=36&desc=C%2B%2B%20%7C%20DSA%20%7C%20AI%2FML%20%7C%20Open%20Source&descAlignY=55&descSize=16&descColor=a9c4e4" width="100%" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+GSoC+2025+Aspirant;🧠+AI%2FML+Learner+%7C+C%2B%2B+Enthusiast;📊+Data+Structures+%26+Algorithms;🔥+Building+Cool+Projects;🎤+Singer+%7C+Event+Manager" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=🚀+GSoC+2025+Aspirant;💡+AI%2FML+Learner+%7C+C%2B%2B+Enthusiast;🧠+Data+Structures+%26+Algorithms;🔥+Building+Cool+Projects;🎤+Singer+%7C+Event+Manager" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views + Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sunav1411&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
-  <a href="mailto:9esunavmattoo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/sunav1411">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=sunav1411&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+&nbsp;
+<a href="mailto:9esunavmattoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/sunav1411"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```cpp
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
+### 👨‍💻 About Me
 
-class Developer {
-public:
-    string name      = "Sunav Sunil Mattoo";
-    string pronouns  = "he/him";
-    string location  = "India 🇮🇳";
-    
-    vector<string> currentlyLearning = {
-        "Data Structures & Algorithms (C++)",
-        "Machine Learning & AI",
-        "Open Source Contribution (GSoC 2025)"
-    };
-    
-    vector<string> interests = {
-        "Competitive Programming 🏆",
-        "Graph Algorithms 📊",
-        "Computer Vision 👁️",
-        "Singing 🎤",
-        "Event Management 🎉"
-    };
-    
-    string askMeAbout() {
-        return "C++, DSA, AI/ML, Open Source";
-    }
-    
-    string funFact() {
-        return "I debug code with the same energy I perform on stage 🎤";
-    }
-};
-```
+- 🔭 Currently building **Graph Algorithms in C++**
+- 🌱 Learning **DSA, AI/ML & Open Source**
+- 🚀 Aspiring **GSoC 2026** contributor
+- 💬 Ask me about **C++, DSA, Competitive Programming**
+- 📫 Reach me at **9esunavmattoo@gmail.com**
+- ⚡ Fun fact: *I debug code with the same energy I perform on stage 🎤*
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🤖 AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -90,97 +51,65 @@ public:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🔗 [Graph-Algorithms-cpp](https://github.com/sunav1411/Graph-Algorithms-cpp)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-> C++ implementations of graph algorithms related to **degree constraints**. Exploring the fascinating world of graph theory one algorithm at a time.
-
-</td>
-<td width="50%">
-
-### 👁️ [Cataract-Detection-CNN](https://github.com/sunav1411/Cataract_Detection-using-CNN)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-> Mobile application for **cataract detection** using Convolutional Neural Networks — where AI meets healthcare.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚗️ [Chemical Equipment Visualizer](https://github.com/sunav1411/chemical-equipment-visualizer)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-> FOSSEE Screening Task — **Hybrid Web + Desktop Application** for visualizing chemical equipment.
-
-</td>
-<td width="50%">
-
-### 📈 [Forage-JPMC](https://github.com/sunav1411/forage-midas)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-> Project for **JP Morgan Chase Advanced Software Engineering** Forage program. Real-world engineering experience.
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sunav1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunav1411&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunav1411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0" />
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🔗 Graph-Algorithms-cpp](https://github.com/sunav1411/Graph-Algorithms-cpp) | C++ implementations of graph algorithms with degree constraints | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| [👁️ Cataract-Detection-CNN](https://github.com/sunav1411/Cataract_Detection-using-CNN) | Mobile app for cataract detection using CNN | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [⚗️ Chemical-Equipment-Visualizer](https://github.com/sunav1411/chemical-equipment-visualizer) | FOSSEE Screening — Hybrid Web + Desktop App | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [📈 Forage-JPMC](https://github.com/sunav1411/forage-midas) | JP Morgan Advanced Software Engineering Forage | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sunav1411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sunav1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunav1411&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunav1411&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🎯 2025 Goals
+### 🏆 GitHub Trophies
 
-```
-[█████░░░░░░░░░░░░░░░] 25%   🏆  Get into GSoC 2025
-[███░░░░░░░░░░░░░░░░░] 15%   📚  Master Advanced DSA
-[████░░░░░░░░░░░░░░░░] 20%   🤖  Build an AI/ML project from scratch  
-[██░░░░░░░░░░░░░░░░░░] 10%   ⭐  Reach 50 GitHub stars
-[█░░░░░░░░░░░░░░░░░░░]  5%   🌍  Contribute to 5 open-source repos
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sunav1411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
 ---
 
-## 🤝 Let's Connect
+### 🎯 2025 Goals
+
+| Goal | Progress |
+|------|----------|
+| 🏆 Get into GSoC 2026 | `██░░░░░░░░` 20% |
+| 📚 Master Advanced DSA | `███░░░░░░░` 30% |
+| 🤖 Build an AI/ML project from scratch | `██░░░░░░░░` 20% |
+| ⭐ Reach 50 GitHub stars | `█░░░░░░░░░` 10% |
+| 🌍 Contribute to 5 open-source repos | `█░░░░░░░░░` 10% |
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sunav1411-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunav1411)
-[![Gmail](https://img.shields.io/badge/Email-9esunavmattoo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9esunavmattoo@gmail.com)
+### 💬 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-sunav1411-181717?style=for-the-badge&logo=github)](https://github.com/sunav1411)
+[![Gmail](https://img.shields.io/badge/Gmail-9esunavmattoo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9esunavmattoo@gmail.com)
 
 <br/>
 
-*"The best way to predict the future is to invent it."* — Alan Kay
+> *"The best way to predict the future is to invent it."* — Alan Kay
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
