@@ -1,66 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sunav%20Sunil%20Mattoo&fontSize=42&fontColor=fff&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20C%2B%2B%20%26%20Full-Stack&descAlignY=55&descSize=16&descColor=a9c4e4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Sunav%20Sunil%20Mattoo&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full-Stack%20Development&descAlignY=56&descSize=16&descColor=dbeafe" width="100%" />
 
-<h2>Building resume-worthy AI products</h2>
-<p><strong>Full-stack developer with an AI/ML focus • GSoC 2026 mindset • React • FastAPI • Python • C++</strong></p>
+# Building resume-worthy AI products
 
-<br/>
+**Software engineering student focused on 2026 internships, AI-powered products, and full-stack systems that feel polished, practical, and recruiter-ready.**
 
-<img src="https://komarev.com/ghpvc/?username=sunav1411&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-&nbsp;
-<a href="mailto:9esunavmattoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/sunav1411"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:9esunavmattoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/sunav1411"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=sunav1411&label=Profile+Views&color=2563eb&style=for-the-badge" />
 
 </div>
 
 ---
 
-### About Me
+## About Me
 
-- Software engineering student building strong full-stack and AI/ML projects for 2026 internship opportunities
-- Interested in AI products, analytics platforms, developer tools, and high-impact backend systems
-- Currently focused on C++, DSA, React, FastAPI, Python, and applied machine learning
-- Open to software engineering, AI/ML, and research-oriented opportunities
-- Reach me at **9esunavmattoo@gmail.com**
+- Building strong public projects for **Software Engineering** and **AI/ML internship** applications in 2026
+- Interested in **AI products**, **analytics platforms**, **backend systems**, and **developer-focused tools**
+- Currently sharpening **C++**, **DSA**, **React**, **FastAPI**, **Python**, and practical machine learning
+- Looking for opportunities where I can contribute to real products, learn fast, and ship meaningful work
 
 ---
 
-### Featured Projects
+## Top Projects
 
-<div align="center">
-
-| Project | Description | Tech |
-|--------|-------------|------|
+| Project | What it does | Stack |
+|--------|---------------|-------|
 | [SkyMind AI](https://github.com/sunav1411/skymind-ai) | Smart Flight Intelligence Platform for delay prediction, aviation analytics, and operational risk insights | `React` `Vite` `FastAPI` `Scikit-learn` `Python` |
-| [FinSight AI](https://github.com/sunav1411/finsight-ai) | AI-powered financial intelligence platform focused on analytics, insights, and decision support workflows | `React` `TypeScript` `Python` `AI/ML` |
-| [Graph-Algorithms-cpp](https://github.com/sunav1411/Graph-Algorithms-cpp) | C++ implementations of core graph algorithms and problem-solving patterns | `C++` `DSA` |
-| [Cataract Detection using CNN](https://github.com/sunav1411/Cataract_Detection-using-CNN) | Deep learning based cataract detection project with practical medical-imaging workflow | `Python` `CNN` `OpenCV` |
-| [Chemical Equipment Visualizer](https://github.com/sunav1411/chemical-equipment-visualizer) | Engineering visualization project built around chemical equipment modeling and interaction | `Python` `Visualization` |
-
-</div>
+| [FinSight AI](https://github.com/sunav1411/finsight-ai) | AI-powered financial intelligence project built around analytics, insight generation, and smarter decision support | `React` `TypeScript` `Python` `AI/ML` |
+| [Graph-Algorithms-cpp](https://github.com/sunav1411/Graph-Algorithms-cpp) | Clean C++ implementations of graph algorithms and problem-solving patterns | `C++` `DSA` |
+| [Cataract Detection using CNN](https://github.com/sunav1411/Cataract_Detection-using-CNN) | Deep learning workflow for cataract detection using computer vision techniques | `Python` `CNN` `OpenCV` |
+| [Chemical Equipment Visualizer](https://github.com/sunav1411/chemical-equipment-visualizer) | Engineering visualization project for chemical equipment modeling and interaction | `Python` `Visualization` |
 
 ---
 
-### 2026 Focus
+## 2026 Focus
 
-- Build standout AI + full-stack portfolio projects
-- Strengthen DSA and problem-solving consistency
-- Contribute to open source with a GSoC 2026 mindset
-- Prepare for software engineering and AI internship roles
-- Ship polished, recruiter-facing public repositories
+- Build standout **AI + full-stack** projects with real product quality
+- Improve consistency in **data structures and algorithms**
+- Prepare for **software engineering** and **AI internship** interviews
+- Contribute to open source with a **GSoC 2026** mindset
+- Keep GitHub projects clean, polished, and easy for recruiters to understand
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -74,7 +65,7 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sunav1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -87,15 +78,7 @@
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunav1411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
-### Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -104,8 +87,8 @@
 
 <br/>
 
-> "The best way to predict the future is to invent it." - Alan Kay
+*"The best way to predict the future is to invent it."* - Alan Kay
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
