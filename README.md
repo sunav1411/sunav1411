@@ -2,9 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sunav%20Sunil%20Mattoo&fontSize=42&fontColor=fff&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20C%2B%2B%20%26%20Full-Stack&descAlignY=55&descSize=16&descColor=a9c4e4" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+resume-worthy+AI+products;Full-stack+developer+with+an+AI%2FML+focus;Focused+on+GSoC+2026+and+internship-ready+projects;C%2B%2B+%7C+DSA+%7C+React+%7C+FastAPI+%7C+Python" alt="Typing SVG" /></a>
+<h2>Building resume-worthy AI products</h2>
+<p><strong>Full-stack developer with an AI/ML focus • GSoC 2026 mindset • React • FastAPI • Python • C++</strong></p>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=sunav1411&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 &nbsp;
